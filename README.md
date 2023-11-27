@@ -80,7 +80,8 @@ endmodule
 ## Truth table 
 ![experiment1 truth table](https://github.com/Ashwathm12/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849225/86e9a6c8-1dea-4eee-a2c2-558749ee76c8)
 ## Timing diagram
-![experiment1 diagram](https://github.com/Ashwathm12/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849225/8796899f-3835-4df7-a438-3e3aa5243e75)
+![experiment1 diagram](https://github.com/Ashwathm12/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849225/cfb2c019-5162-4dc7-9757-1e328a2974bd)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
