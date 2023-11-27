@@ -6,6 +6,7 @@ To study about the different digital IC’s and to verify the truth table in Qua
 
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
+
 Software – Quartus prime
 ## Theory
 Introduction
