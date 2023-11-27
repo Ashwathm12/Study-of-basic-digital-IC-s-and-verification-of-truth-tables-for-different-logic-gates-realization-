@@ -1,4 +1,4 @@
-## Nmae:Ashwath M
+## Name:Ashwath M
 ## Reference number:23000309
 # Study of basic digital IC s and verification of truth tables for different logic gates realization 
 ## AIM:
